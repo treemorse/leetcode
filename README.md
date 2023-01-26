@@ -2,8 +2,9 @@ everyday i'm hustlin😎👌😈
 
 Solved:
 
-| №    |           Question          |  Dificulty |   Languages  |
-| :---:|          ----------         |  --------- |   ---------  |
+| №    |           Question          |  Difficulty |   Languages  |
+| :--: |          ----------         |  --------- |   ---------  |
+| 1    | [Two Sum](/1.%20Two%20Sum)                                                              | Easy       | Python       |
 | 21   | [Merge Two Sorted Lists](21.%20Merge%20Two%20Sorted%20Lists/)                           | Easy       | Go           |
 | 35   | [Search Insert Position](/35.%20Search%20Insert%20Position/)                            | Easy       | Go           |
 | 167  | [Two Sum II - Input Sorted](/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/)  | Medium     | Go           |
