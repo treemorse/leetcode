@@ -3,28 +3,28 @@
 Solved: 18 easy & 2 medium  
 Total: 20
 
-| №    |                                         Question                                        | Difficulty |   Languages  |
-| :--: |                                        ----------                                       | ---------  |   ---------  |
-| 1    | [Two Sum](/1.%20Two%20Sum)                                                              | Easy       | Python       |
-| 20   | [Valid Parentheses](/20.%20Valid%20parentheses)                                         | Easy       | Python       |
-| 21   | [Merge Two Sorted Lists](21.%20Merge%20Two%20Sorted%20Lists/)                           | Easy       | Go, Python   |
-| 35   | [Search Insert Position](/35.%20Search%20Insert%20Position/)                            | Easy       | Go           |
-| 121  | [Best Time to Buy and Sell Stock](/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)  | Easy       | Python       |
-| 125  | [Valid Palindrome](/125.%20Valid%20Palindrome)                                          | Easy       | Python       |
-| 167  | [Two Sum II - Input Sorted](/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/)  | Medium     | Go           |
-| 189  | [Rotate Array](/189.%20Rotate%20Array/)                                                 | Medium     | Go           |
-| 205  | [Isomorphic Strings](/205.%20Isomorphic%20Strings/)                                     | Easy       | Go           |
-| 206  | [Reverse Linked List](/206.%20Reverse%20Linked%20List/)                                 | Easy       | Go           |
-| 226  | [Invert Binary Tree](/226.%20Invert%20Binary%20Tree)                                    | Easy       | Python       |
-| 242  | [Valid Anagram](/242.%20Valid%20Anagram)                                                | Easy       | Python       |
-| 278  | [First Bad Version](/278.%20First%20Bad%20Version/)                                     | Easy       | Go           |
-| 283  | [Move Zeroes](/283.%20Move%20Zeroes/)                                                   | Easy       | Go           |
-| 392  | [Is Subsequence](/392.%20Is%20Subsequence/)                                             | Easy       | Go           |
-| 704  | [Binary Search](/704.%20Binary%20Search/)                                               | Easy       | Go           |
-| 724  | [Find Pivot Index](/724.%20Find%20Pivot%20Index/)                                       | Easy       | Go           |
-| 876  | [Middle of the Linked List](/876.%20Middle%20of%20the%20linked%20list/)                 | Easy       | Go           |
-| 977  | [Squares of a Sorted Array](/977.%20Squares%20of%20a%20Sorted%20Array/)                 | Easy       | Go           |
-| 1480 | [Running Sum of 1d Array](/1480.%20Running%20Sum%20of%201d%20Array/)                    | Easy       | Go           |
+| №    |                                                 Question                                                | Difficulty |                                                                   Languages                                                                  |
+| :--: |                                                ----------                                               | ---------  |                                                                   ---------                                                                  |
+| 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                       | Easy       | [Python](/problems/1.%20Two%20Sum/python/solve.py)                                                                                           |
+| 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                   | Easy       | [Python](/problems/20.%20Valid%20parentheses/python/solve.py)                                                                                |
+| 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                         | Easy       | [Go](/problems/21.%20Merge%20Two%20Sorted%20Lists/golang/main.go), [Python](/problems/21.%20Merge%20Two%20Sorted%20Lists/python/solve.py)    |
+| 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                         | Easy       | [Go](/problems/35.%20Search%20Insert%20Position/golang/main.go)                                                                              |
+| 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)       | Easy       | [Python](/problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/python/solve.py)                                                       |
+| 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                     | Easy       | [Python](/problems/125.%20Valid%20Palindrome/python/solve.py)                                                                                |
+| 167  | [Two Sum II - Input Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)            | Medium     | [Go](/problems/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/golang/main.go)                                                       |
+| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                             | Medium     | [Go](/problems/189.%20Rotate%20Array/golang/main.go)                                                                                         |
+| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                 | Easy       | [Go](/problems/205.%20Isomorphic%20Strings/golang/main.go)                                                                                   |
+| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                               | Easy       | [Go](/problems/206.%20Reverse%20Linked%20List/golang/main.go)                                                                                |
+| 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                 | Easy       | [Python](/problems/226.%20Invert%20Binary%20Tree/python/solve.py)                                                                            |
+| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                           | Easy       | [Python](/problems/242.%20Valid%20Anagram/python/solve.py)                                                                                   |
+| 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                   | Easy       | [Go](/problems/278.%20First%20Bad%20Version/golang/main.go)                                                                                  |
+| 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                               | Easy       | [Go](/problems/283.%20Move%20Zeroes/golang/main.go)                                                                                          |
+| 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                         | Easy       | [Go](/problems/392.%20Is%20Subsequence/golang/main.go)                                                                                       |
+| 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                           | Easy       | [Go](/problems/704.%20Binary%20Search/golang/main.go)                                                                                        |
+| 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                     | Easy       | [Go](/problems/724.%20Find%20Pivot%20Index/golang/main.go)                                                                                   |
+| 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                   | Easy       | [Go](/problems/876.%20Middle%20of%20the%20linked%20list/golang/main.go)                                                                      |
+| 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                   | Easy       | [Go](/problems/977.%20Squares%20of%20a%20Sorted%20Array/golang/main.go)                                                                      |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                       | Easy       | [Go](/problems/1480.%20Running%20Sum%20of%201d%20Array/golang/main.go)                                                                       |
 
 
 
