@@ -1,6 +1,7 @@
-everyday i'm hustlin😎👌😈
+# everyday i'm hustlin😎👌😈
 
-Solved: 18 easy & 2 medium
+Solved: 18 easy & 2 medium  
+Total: 20
 
 | №    |                                         Question                                        | Difficulty |   Languages  |
 | :--: |                                        ----------                                       | ---------  |   ---------  |
