@@ -1,9 +1,9 @@
 everyday i'm hustlin😎👌😈
 
-Solved:
+Solved: 18 easy & 2 medium
 
-| №    |           Question          |  Difficulty |   Languages  |
-| :--: |          ----------         |  --------- |   ---------  |
+| №    |                                         Question                                        | Difficulty |   Languages  |
+| :--: |                                        ----------                                       | ---------  |   ---------  |
 | 1    | [Two Sum](/1.%20Two%20Sum)                                                              | Easy       | Python       |
 | 20   | [Valid Parentheses](/20.%20Valid%20parentheses)                                         | Easy       | Python       |
 | 21   | [Merge Two Sorted Lists](21.%20Merge%20Two%20Sorted%20Lists/)                           | Easy       | Go, Python   |
@@ -15,6 +15,7 @@ Solved:
 | 205  | [Isomorphic Strings](/205.%20Isomorphic%20Strings/)                                     | Easy       | Go           |
 | 206  | [Reverse Linked List](/206.%20Reverse%20Linked%20List/)                                 | Easy       | Go           |
 | 226  | [Invert Binary Tree](/226.%20Invert%20Binary%20Tree)                                    | Easy       | Python       |
+| 242  | [Valid Anagram](/242.%20Valid%20Anagram)                                                | Easy       | Python       |
 | 278  | [First Bad Version](/278.%20First%20Bad%20Version/)                                     | Easy       | Go           |
 | 283  | [Move Zeroes](/283.%20Move%20Zeroes/)                                                   | Easy       | Go           |
 | 392  | [Is Subsequence](/392.%20Is%20Subsequence/)                                             | Easy       | Go           |
