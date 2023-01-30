@@ -1,7 +1,7 @@
 # everyday i'm hustlin😎👌😈
 
-Solved: 18 easy & 2 medium  
-Total: 20
+Solved: 19 easy & 2 medium  
+Total: 21
 
 | №    |                                                 Question                                                | Difficulty |                                                                   Languages                                                                  |
 | :--: |                                                ----------                                               | ---------  |                                                                   ---------                                                                  |
@@ -9,6 +9,7 @@ Total: 20
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                   | Easy       | [Python](/problems/20.%20Valid%20parentheses/python/solve.py)                                                                                |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                         | Easy       | [Go](/problems/21.%20Merge%20Two%20Sorted%20Lists/golang/main.go), [Python](/problems/21.%20Merge%20Two%20Sorted%20Lists/python/solve.py)    |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                         | Easy       | [Go](/problems/35.%20Search%20Insert%20Position/golang/main.go)                                                                              |
+| 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                             | Easy       | [Python](/problems/110.%20Balanced%20Binary%20Tree/python/solve.py)                                                                          |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)       | Easy       | [Python](/problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/python/solve.py)                                                       |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                     | Easy       | [Python](/problems/125.%20Valid%20Palindrome/python/solve.py)                                                                                |
 | 167  | [Two Sum II - Input Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)            | Medium     | [Go](/problems/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/golang/main.go)                                                       |
@@ -20,7 +21,7 @@ Total: 20
 | 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                   | Easy       | [Go](/problems/278.%20First%20Bad%20Version/golang/main.go)                                                                                  |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                               | Easy       | [Go](/problems/283.%20Move%20Zeroes/golang/main.go)                                                                                          |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                         | Easy       | [Go](/problems/392.%20Is%20Subsequence/golang/main.go)                                                                                       |
-| 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                           | Easy       | [Go](/problems/704.%20Binary%20Search/golang/main.go)                                                                                        |
+| 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                           | Easy       | [Go](/problems/704.%20Binary%20Search/golang/main.go), [Python](/problems/704.%20Binary%20Search/python/solve.py)                            |
 | 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                     | Easy       | [Go](/problems/724.%20Find%20Pivot%20Index/golang/main.go)                                                                                   |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                   | Easy       | [Go](/problems/876.%20Middle%20of%20the%20linked%20list/golang/main.go)                                                                      |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                   | Easy       | [Go](/problems/977.%20Squares%20of%20a%20Sorted%20Array/golang/main.go)                                                                      |
