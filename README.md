@@ -1,7 +1,7 @@
 # everyday i'm hustlin😎👌😈
 
-Solved: 19 easy & 2 medium  
-Total: 21
+Solved: 21 easy & 2 medium  
+Total: 23
 
 | №    |                                                 Question                                                | Difficulty |                                                                   Languages                                                                  |
 | :--: |                                                ----------                                               | ---------  |                                                                   ---------                                                                  |
@@ -12,6 +12,7 @@ Total: 21
 | 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                             | Easy       | [Python](/problems/110.%20Balanced%20Binary%20Tree/python/solve.py)                                                                          |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)       | Easy       | [Python](/problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/python/solve.py)                                                       |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                     | Easy       | [Python](/problems/125.%20Valid%20Palindrome/python/solve.py)                                                                                |
+| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                   | Easy       | [Python](/problems/141.%20Linked%20List%20Cycle/python/solve.py)                                                                             |
 | 167  | [Two Sum II - Input Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)            | Medium     | [Go](/problems/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/golang/main.go)                                                       |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                             | Medium     | [Go](/problems/189.%20Rotate%20Array/golang/main.go)                                                                                         |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                 | Easy       | [Go](/problems/205.%20Isomorphic%20Strings/golang/main.go)                                                                                   |
@@ -20,6 +21,7 @@ Total: 21
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                           | Easy       | [Python](/problems/242.%20Valid%20Anagram/python/solve.py)                                                                                   |
 | 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                   | Easy       | [Go](/problems/278.%20First%20Bad%20Version/golang/main.go)                                                                                  |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                               | Easy       | [Go](/problems/283.%20Move%20Zeroes/golang/main.go)                                                                                          |
+| 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                               | Easy       | [Python](/problems/383.%20Ransom%20Note/python/solve.py)                                                                                     |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                         | Easy       | [Go](/problems/392.%20Is%20Subsequence/golang/main.go)                                                                                       |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                           | Easy       | [Go](/problems/704.%20Binary%20Search/golang/main.go), [Python](/problems/704.%20Binary%20Search/python/solve.py)                            |
 | 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                     | Easy       | [Go](/problems/724.%20Find%20Pivot%20Index/golang/main.go)                                                                                   |
