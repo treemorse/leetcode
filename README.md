@@ -1,7 +1,7 @@
 # everyday i'm hustlin😎👌😈
 
-Solved: 25 easy & 5 medium  
-Total: 27
+Solved: 26 easy & 5 medium  
+Total: 28
 
 | №    |                                                                    Question                                                                   | Difficulty |                                                                                                  Languages                                                                                                 |
 | :--: |                                                                   ----------                                                                  | ---------  |                                                                                                  ---------                                                                                                 |
@@ -32,8 +32,9 @@ Total: 27
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                               | Easy       | [Go](/problems/392.%20Is%20Subsequence/golang/main.go)                                                                                                                                                     |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                                 | Easy       | [Go](/problems/704.%20Binary%20Search/golang/main.go), [Python](/problems/704.%20Binary%20Search/python/solve.py)                                                                                          |
 | 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                                                           | Easy       | [Go](/problems/724.%20Find%20Pivot%20Index/golang/main.go)                                                                                                                                                 |
+| 744  | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)                           | Easy       | [C++](/problems/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/c++/main.cpp)                                                                                                                    |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                         | Easy       | [Go](/problems/876.%20Middle%20of%20the%20linked%20list/golang/main.go)                                                                                                                                    |
-| 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                         | Easy       | [Go](/problems/977.%20Squares%20of%20a%20Sorted%20Array/golang/main.go)                                                                                                                                    |
+| 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                         | Easy       | [Go](/problems/977.%20Squares%20of%20a%20Sorted%20Array/golang/main.go), [Python](/problems/977.%20Squares%20of%20a%20Sorted%20Array/python/solve.py)                                                      |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                             | Easy       | [Go](/problems/1480.%20Running%20Sum%20of%201d%20Array/golang/main.go)                                                                                                                                     |
 
 
